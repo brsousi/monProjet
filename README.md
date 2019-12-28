@@ -9,15 +9,15 @@ Dans le présent sujet je veux réaliser une blockChaine minimale qui permet de 
 5.	Evaluer et valoriser la qualité d’un bâtiment.
 Cahier des charges :
 On est censé de remplir :
-1.	Les informations concernant autorités municipale : inscription, Lotissement, infrastructure, Quartier.
-2.	Les informations de conservation : Certificat de propriété, Plan cadastral, calcul de contenance 
-3.	Les informations de l’architecture : choix du terrain, conception, réaliser du plan 
-4.	La terre de construction : surface du terrain, Forme du terrain, Nature du sous-sol, orientation du terrain, types (terrain en lotissement, terrain isolé.)
-5.	Terrassement de la construction : préparation du terrain et l’aplanissant pour le construire 
-6.	Le plancher, les fondations (types de béton et de ferraillage, etc.)
-7.	Les grands œuvres et les murs porteurs des étages 
-8.	Les seconds œuvres : l’isolation, les cloisons intérieures, la plomberie, l’électricité, le chauffage et la climatisation.
-9.	Les travaux de finitions : le revêtement du sol, la peinture ou la tapisserie. Les équipements, et les revêtements extérieurs (seuils de porte, murets, terrasse, etc.)
+  @	Les informations concernant autorités municipale : inscription, Lotissement, infrastructure, Quartier.
+  @	Les informations de conservation : Certificat de propriété, Plan cadastral, calcul de contenance 
+  @	Les informations de l’architecture : choix du terrain, conception, réaliser du plan 
+  @	La terre de construction : surface du terrain, Forme du terrain, Nature du sous-sol, orientation du terrain, types (terrain en lotissement, terrain isolé.)
+  @	Terrassement de la construction : préparation du terrain et l’aplanissant pour le construire 
+  @	Le plancher, les fondations (types de béton et de ferraillage, etc.)
+  @	Les grands œuvres et les murs porteurs des étages 
+  @	Les seconds œuvres : l’isolation, les cloisons intérieures, la plomberie, l’électricité, le chauffage et la climatisation.
+  @	Les travaux de finitions : le revêtement du sol, la peinture ou la tapisserie. Les équipements, et les revêtements extérieurs (seuils de porte, murets, terrasse, etc.)
 Le travail à réaliser :
 Au début (version 1) :
 En python et Json:
